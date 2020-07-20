@@ -29,6 +29,16 @@ Miscellaneous things
 
 ## 搬砖工
 
+
+<details>
+  <summary>2020.7.20 ~ burpsuite_pro_v2020_7 </summary>
+ 
+  burpsuite_pro_v2020_7，破解使用请参考原链：https://segmentfault.com/a/1190000022141253 
+  
+  下载：[Burp_Suite_Pro_v2020.2_Loader_Keygen.zip](https://github.com/starnightcyber/Miscellaneous/releases/download/burpsuite_pro_v2020_7/Burp_Suite_Pro_v2020.2_Loader_Keygen.zip)
+ 
+</details>
+
 <details>
   <summary>2020.5.26 ~ Web漏扫软件 AppScan 10.0.0 破解版本下载</summary>
  
